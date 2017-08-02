@@ -1,0 +1,3 @@
+[submodule "server/node-lib"]
+	path = server/node-lib
+	url = https://git.oschina.net/likegun/node-lib.git

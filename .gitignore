@@ -1,0 +1,12 @@
+.idea/
+.idea/*.*
+vscode
+vscode/*.*
+node_modules
+npm-debug.log
+npm-debug.log*
+logs
+logs/**
+dist/*.*
+target/*.*
+logs/*.*
